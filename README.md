@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eidylon
 - 👀 I’m interested in 3D modeling, 3D printing, rock climbing, cats and science fiction
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(The Expanse, Firefly, Battlestar Galactica, Stargate, Doctor Who, Star Trek, Star Wars ... )
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(The Expanse, Firefly, Battlestar Galactica, Stargate, Doctor Who, Star Trek, Star Wars, ... )
 - 🌱 I’m currently learning AD, PowerShell and related systems management
 - ⌨ I code in Microsoft full stack
 - 🧰 I model in Fusion 360
