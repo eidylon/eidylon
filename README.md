@@ -5,7 +5,7 @@
 - ⌨ I code in Microsoft full stack
 - 🧰 I model in Fusion 360
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(props, and the occasional around-the-house useful objects)
-- 🖨 I print in TPU, PLA and Resin
+- 🖨 I print in PLA, TPU, and Resin
 
 <!---
 > 💞️ I’m looking to collaborate on ...
