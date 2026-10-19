@@ -6,7 +6,7 @@
 - 🧰 I model in Fusion 360
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(props, and the occasional around-the-house useful objects)
 - 🖨 I print in PLA, TPU, and Resin
-
+- 🔩 Just recently started learning CNC milling
 <!---
 > 💞️ I’m looking to collaborate on ...
 > 📫 How to reach me ...
